@@ -332,7 +332,7 @@ No fancy login screen, no windows, no mouse support. What did I get into?
 
 You are not the first one to get confused about the **intended use case of openHABian** or most other solutions based on a Raspberry Pi.
 Maybe it helps to not think of the RPi as a PC as we know it.
-It is not (necessarily) build to be used with a keyboard and display.
+It is not (necessarily) built to be used with a keyboard and display.
 You already own a **powerful PC or Mac** which you should benefit from.
 It would be a shame to have a powerful computer at your fingertips and then have to **restrict yourself** to a very limited graphical frontend on another device, wouldn't you agree?
 
